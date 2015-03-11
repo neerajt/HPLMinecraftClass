@@ -1,10 +1,10 @@
 # Starting Minecraft
 
 
-On our second tab, let's start Minecraft. We can do this by typing the following:
+On our tab, let's start Minecraft. We can do this by typing the following:
 
 ```bash
-$ cd ~/mcpi
+$ cd /home/pi/mcpi
 $ ./minecraft-pi
 ```
 
