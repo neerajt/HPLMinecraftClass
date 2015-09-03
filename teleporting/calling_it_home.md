@@ -18,3 +18,5 @@ To teleport, type:
 ## Your turn:
 
 See if you can set more checkpoints. For example, try things like Forest, Snow, Lake, Dungeon, etc. Get creative!
+
+Then, try teleporting between checkpoints. Pretty cool, huh?
