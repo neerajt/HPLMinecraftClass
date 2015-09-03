@@ -14,3 +14,7 @@ To teleport, type:
 ```python
 [2] mc.player.setPos(Home)
 ```
+
+## Your turn:
+
+See if you can set more checkpoints. For example, try things like Forest, Snow, Lake, Dungeon, etc. Get creative!
