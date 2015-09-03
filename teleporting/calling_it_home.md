@@ -7,4 +7,10 @@ We can save our Home coordinates by going into our home and calling the `mc.play
 [1] Home = mc.player.getPos()
 ```
 
+# Teleport
 
+To teleport, type:
+
+```python
+[2] mc.player.setPos(Home)
+```
